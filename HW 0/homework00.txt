@@ -1,0 +1,8 @@
+1. Having many users you can utilize their skills and interests to find and fix issues faster than you can alone
+2. Release early and often to spot issues as they come, this also shows you care to users (users will also self-select issues to look at and fix, which means you get higher quality work)
+3. You get many eyes on an issue and can hear a panel of fixes/reasons it happens, which allow for smarter solutions
+4. Users become a reliable source of information if you allow them to become it.
+5. Ideas and pieces of code can be pulled from other implementations in order to create a more effective solution, and be able to recognize good ideas from others
+6. effective use of egoless programming with open source communities
+7. Rewarding ego's of co-developers, at any level, will allow all of the benefits of a community without having the entire system fail if the person running it does it correctly 
+8. Closed systems rely on core people to develop, where open source systems allow for people to ebb and flow, which can maintain developers at a higher rate
